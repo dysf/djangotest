@@ -28,7 +28,9 @@ Links
 - urls.py - https://docs.djangoproject.com/en/1.6/topics/http/urls/
 - wsgi - https://docs.djangoproject.com/en/1.6/howto/deployment/wsgi/
 - DB Ref - https://docs.djangoproject.com/en/1.6/topics/db/queries/
-- Templates - https://docs.djangoproject.com/en/1.6/ref/templates/api/#template-loaders
+- Templates
+  - https://docs.djangoproject.com/en/1.6/ref/templates/api/#template-loaders
+  - https://docs.djangoproject.com/en/1.6/topics/templates/
 
 
 Tutorials
