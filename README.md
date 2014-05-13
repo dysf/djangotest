@@ -31,6 +31,10 @@ Links
 - Templates
   - https://docs.djangoproject.com/en/1.6/ref/templates/api/#template-loaders
   - https://docs.djangoproject.com/en/1.6/topics/templates/
+- Static files
+  - https://docs.djangoproject.com/en/1.6/howto/static-files/
+  - https://docs.djangoproject.com/en/1.6/howto/static-files/deployment/
+  - https://docs.djangoproject.com/en/1.6/ref/contrib/staticfiles/
 
 
 Tutorials
